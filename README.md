@@ -1,10 +1,14 @@
 ## Привет!
-Я Бондарев Максим, Python-разработчик
+Я Бондарев Максим, студент курса Нетологии Python-разработчик
 
-<!--
-**MaxBond81/MaxBond81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мой стек
+Windows, Python, Django Framework,Git, SQL, SQLAlchemy, PostgreSQL, REST API
 
-Here are some ideas to get you started:
+Проекты, реализованные в ходе обучения:
+1. «ТГ-чат-бот «Обучалка английскому языку»
+2. «VKinder
+3. «Резервное копирование»
+   
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
