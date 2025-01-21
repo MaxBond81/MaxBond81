@@ -1,4 +1,5 @@
-## Hi there 👋
+## Привет!
+Я Бондарев Максим, Python-разработчик
 
 <!--
 **MaxBond81/MaxBond81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
